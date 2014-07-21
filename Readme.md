@@ -1,6 +1,6 @@
 # Atom Replacement Icon
 
-![](https://raw.githubusercontent.com/IslamMagdy/sublime-atom-replacement-icon/master/screenshot.png)
+![](https://rawgithub.com/IslamMagdy/sublime-atom-replacement-icon/master/screenshot.png)
 
 ## Installation
 
