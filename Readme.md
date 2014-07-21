@@ -1,6 +1,6 @@
 # Atom Replacement Icon
 
-![](https://github.com/JSFibers/sublime-atom-replacement-icon/master/screenshot.png)
+![](https://raw.githubusercontent.com/IslamMagdy/sublime-atom-replacement-icon/master/screenshot.png)
 
 ## Installation
 
@@ -22,5 +22,5 @@ You can also drag `file.icns` into the Resources folder although I haven't been 
 * [Slicy](http://macrabbit.com/slicy/)
 * [Icon Slate](http://www.kodlian.com/apps/icon-slate)
 
-### Fork Of
+### Fork of
 [Atom Replacement Icon](https://github.com/edwardloveall/atom-replacement-icon)
